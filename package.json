@@ -1,5 +1,5 @@
 {
-  "name": "qr-code-generator-vue3",
+  "name": "vue3-qrcode-fix",
   "version": "1.4.19",
   "description": "Add a style and an image to your QR code Vue3",
   "main": "lib/index.js",
